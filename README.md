@@ -2,8 +2,6 @@
 
 ### 🖥 I'm fullstack web developer 
 
-![image](img/Work.svg)
-          
 # My skills:
 
 - HTML5, CSS
